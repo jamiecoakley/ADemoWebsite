@@ -1,5 +1,5 @@
 body {
-    background-color: springgreen;
+    background-color: yellowgreen;
     font-family: 'Jokerman', sans-serif;
   }
   nav{
@@ -21,7 +21,7 @@ body {
     float: left;
   }
   .nav-link {
-    color: black;
+    color: indigo;
     text-decoration: none;
     font-family: 'Ravie', sans-serif;
   }
@@ -30,7 +30,7 @@ body {
     font-weight: bold;
   }
   #brand .nav-link {
-    color: black;
+    color: indigo;
     font-size: 14pt;
   }
   #brand .nav-link:hover {
